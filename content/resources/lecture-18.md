@@ -2,6 +2,15 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: "Lecture notes ([PDF](resources/18_580ln_fa08))  \nSupplemental\
+  \ notes ([PDF](resources/18s_analpertb))"
+resource_index_text: ''
 resourcetype: Video
 title: Lecture 18
 uid: 394d7e52-3eb3-5c26-b942-96d0c24b2308

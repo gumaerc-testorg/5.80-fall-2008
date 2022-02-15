@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Exam on small-molecule spectroscopy and dynamics.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/5-80-small-molecule-spectroscopy-and-dynamics-fall-2008/ba5076636792f32e99f3ebfb2e1bd0a6_examf_1978.pdf
+file: /media/courses/5-80-small-molecule-spectroscopy-and-dynamics-fall-2008/ba5076636792f32e99f3ebfb2e1bd0a6_examf_1978.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: Take Home Examination
 uid: ba507663-6792-f32e-99f3-ebfb2e1bd0a6

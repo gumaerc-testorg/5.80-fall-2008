@@ -2,6 +2,15 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: "Lecture notes ([PDF](resources/01_090308_580))  \nSupplemental\
+  \ notes ([PDF](resources/01s_transmxel))"
+resource_index_text: ''
 resourcetype: Video
 title: Lecture 1
 uid: 8094199d-8edc-16c0-3667-25649815a80c

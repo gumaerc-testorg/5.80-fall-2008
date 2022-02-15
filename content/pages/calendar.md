@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: a11b4b41-6830-61a2-f43f-974b18e371a4
 ---
@@ -188,7 +190,7 @@ Laser schemes for rotational assignment first lines for Ω', Ω" assignments
 {{< tdopen >}}
 
 
-Definition of angular momenta and | A α MA >
+Definition of angular momenta and | A α M{{< sub "A" >}} >
 
 Evaluation of ![](/courses/chemistry/5-80-small-molecule-spectroscopy-and-dynamics-fall-2008/calendar/lec14image.jpg)
 
@@ -210,7 +212,7 @@ Rotation and angular momenta
 15
 {{< tdclose >}}
 {{< tdopen >}}
-2∏ and 2∑ matrices
+{{< sup "2" >}}∏ and {{< sup "2" >}}∑ matrices
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -219,7 +221,7 @@ Rotation and angular momenta
 16
 {{< tdclose >}}
 {{< tdopen >}}
-Parity and e/f basis for 2∏, 2∑±
+Parity and e/f basis for {{< sup "2" >}}∏, {{< sup "2" >}}∑{{< sup "±" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -228,7 +230,7 @@ Parity and e/f basis for 2∏, 2∑±
 17
 {{< tdclose >}}
 {{< tdopen >}}
-Hund's cases: 2∏, 2∑± examples
+Hund's cases: {{< sup "2" >}}∏, {{< sup "2" >}}∑{{< sup "±" >}} examples
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -237,7 +239,7 @@ Hund's cases: 2∏, 2∑± examples
 17 (S)
 {{< tdclose >}}
 {{< tdopen >}}
-Energy level structure of 2∏ and 2∑ states, matrix elements for 2∏ and 2∑ including ∏ ~ ∑ perturbation, parity
+Energy level structure of {{< sup "2" >}}∏ and {{< sup "2" >}}∑ states, matrix elements for {{< sup "2" >}}∏ and {{< sup "2" >}}∑ including ∏ ~ ∑ perturbation, parity
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -372,7 +374,7 @@ Polyatomic vibrations II: s-vectors, G-matrix, and Eckart condition
 27
 {{< tdclose >}}
 {{< tdopen >}}
-Polyatomic vibrations III: s-vectors and H2O
+Polyatomic vibrations III: s-vectors and H{{< sub "2" >}}O
 {{< tdclose >}}
 
 {{< trclose >}}

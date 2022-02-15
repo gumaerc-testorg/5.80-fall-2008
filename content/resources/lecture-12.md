@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: Lecture notes ([PDF](resources/12_580ln_fa08))
+resource_index_text: ''
 resourcetype: Video
 title: Lecture 12
 uid: 58d090c4-f984-25a3-3563-ebe4d52daa33

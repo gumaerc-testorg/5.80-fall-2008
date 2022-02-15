@@ -2,6 +2,15 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: "Lecture notes ([PDF](resources/17_580ln_fa08))  \nSupplemental\
+  \ notes ([PDF](resources/17s_engylvlstrctr))"
+resource_index_text: ''
 resourcetype: Video
 title: Lecture 17
 uid: 4b1bc4b9-5fab-f5db-3d76-7eae1210dd48

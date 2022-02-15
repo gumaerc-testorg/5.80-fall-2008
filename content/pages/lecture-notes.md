@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 45cbf973-fa83-2323-e04f-344577c66e15
 ---
@@ -245,7 +248,7 @@ Laser schemes for rotational assignment first lines for Ω', Ω" assignments
 {{< tdopen >}}
 
 
-Definition of angular momenta and | A α MA >
+Definition of angular momenta and | A α M{{< sub "A" >}} >
 
 Evaluation of ![the rotational Hamiltonian](/courses/chemistry/5-80-small-molecule-spectroscopy-and-dynamics-fall-2008/calendar/lec14image.jpg)
 
@@ -273,7 +276,7 @@ Rotation and angular momenta
 15
 {{< tdclose >}}
 {{< tdopen >}}
-2∏ and 2∑ matrices
+{{< sup "2" >}}∏ and {{< sup "2" >}}∑ matrices
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/15_580ln_fa08))
@@ -285,7 +288,7 @@ Rotation and angular momenta
 16
 {{< tdclose >}}
 {{< tdopen >}}
-Parity and e/f basis for 2∏, 2∑±
+Parity and e/f basis for {{< sup "2" >}}∏, {{< sup "2" >}}∑{{< sup "±" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/16_580ln_fa08))
@@ -297,7 +300,7 @@ Parity and e/f basis for 2∏, 2∑±
 17
 {{< tdclose >}}
 {{< tdopen >}}
-Hund's cases: 2∏, 2∑± examples
+Hund's cases: {{< sup "2" >}}∏, {{< sup "2" >}}∑{{< sup "±" >}} examples
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/17_580ln_fa08))
@@ -309,7 +312,7 @@ Hund's cases: 2∏, 2∑± examples
 17 (S)
 {{< tdclose >}}
 {{< tdopen >}}
-Energy level structure of 2∏ and 2∑ states, matrix elements for 2∏ and 2∑ including ∏ ~ ∑ perturbation, parity
+Energy level structure of {{< sup "2" >}}∏ and {{< sup "2" >}}∑ states, matrix elements for {{< sup "2" >}}∏ and {{< sup "2" >}}∑ including ∏ ~ ∑ perturbation, parity
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/17s_engylvlstrct))
@@ -489,7 +492,7 @@ Polyatomic vibrations II: s-vectors, G-matrix, and Eckart condition
 27
 {{< tdclose >}}
 {{< tdopen >}}
-Polyatomic vibrations III: s-vectors and H2O
+Polyatomic vibrations III: s-vectors and H{{< sub "2" >}}O
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/27_580ln_fa08))
