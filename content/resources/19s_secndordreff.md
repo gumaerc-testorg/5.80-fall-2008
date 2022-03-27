@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 45cbf973-fa83-2323-e04f-344577c66e15
 resourcetype: Document
 title: 'Lecture #19 Supplement'
 uid: 28960101-3b8b-26bc-574d-3039bdc905f9

@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: Lecture notes ([PDF](resources/25_580ln_fa08))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Lecture 25
 uid: b0215d90-2abe-de7e-c5e9-0fbfc987168b
 video_files:

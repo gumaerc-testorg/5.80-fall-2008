@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Video Lectures
 parent_type: CourseSection
+parent_uid: 06c2bf45-6a61-cf6c-c661-290027ec047e
 resourcetype: Image
 title: Lecture 32 Image
 uid: 58f0f99c-114c-f221-99c6-c02e2d022537

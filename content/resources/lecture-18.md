@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -12,6 +13,7 @@ related_resources_text: "Lecture notes ([PDF](resources/18_580ln_fa08))  \nSuppl
   \ notes ([PDF](resources/18s_analpertb))"
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Lecture 18
 uid: 394d7e52-3eb3-5c26-b942-96d0c24b2308
 video_files:

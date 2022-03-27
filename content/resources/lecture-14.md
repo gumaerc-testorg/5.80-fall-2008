@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -12,6 +13,7 @@ related_resources_text: "Lecture notes ([PDF](resources/14_580ln_fa08))  \nSuppl
   \ notes ([PDF](resources/14s_rotatangmom))"
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Lecture 14
 uid: ccd3c8a1-875b-53c7-39c1-cac01e5ae2f0
 video_files:

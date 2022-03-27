@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -12,6 +13,7 @@ related_resources_text: "Lecture notes ([PDF](resources/03_580ln_fa08))  \nSuppl
   \ notes ([PDF](resources/03s_anoscvibrot))"
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Lecture 3
 uid: 8b7b5a96-cd77-a1df-0600-0df3d3c393e1
 video_files:

@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -12,6 +13,7 @@ related_resources_text: "Lecture notes ([PDF](resources/02_580ln_08))  \nSupplem
   \ notes ([PDF](resources/02s_mtxsol))"
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Lecture 2
 uid: 56e64fac-a76a-51b3-3c78-cd025974cab0
 video_files:

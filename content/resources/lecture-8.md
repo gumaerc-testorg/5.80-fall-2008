@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -12,6 +13,7 @@ related_resources_text: "Lecture notes ([PDF](resources/08_580ln_576))  \nSupple
   \ notes ([PDF](resources/08s_elecconfigs))"
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Lecture 8
 uid: 3f925af0-7ba6-d8f0-bcc5-5df8176cbe0b
 video_files:

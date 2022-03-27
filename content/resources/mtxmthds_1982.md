@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 5e5e8a1f-8400-93d0-89b7-18d990e250dd
 resourcetype: Document
 title: Notes on Matrix Methods
 uid: a0d0f83b-a77a-8541-08e5-44e9ef2170af
