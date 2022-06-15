@@ -5,11 +5,12 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: Lecture notes ([PDF](resources/05_580ln_fa08))
+related_resources_text: Lecture notes ([PDF](/courses/5-80-small-molecule-spectroscopy-and-dynamics-fall-2008/resources/05_580ln_fa08))
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -27,3 +28,6 @@ video_metadata:
 **Topics covered**: Alkali and many e- atomic spectra
 
 **Instructor:** Prof. Robert Field
+
+
+

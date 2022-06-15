@@ -2,7 +2,7 @@
 content_type: resource
 description: Thumbnail image accompanying a video lecture on small-molecule spectroscopy
   and dynamics.
-file: /media/courses/5-80-small-molecule-spectroscopy-and-dynamics-fall-2008/4a13cc140def7299a4a0ca9ab9c8255e_mit5_80f08lec38_th.jpg
+file: /courses/5-80-small-molecule-spectroscopy-and-dynamics-fall-2008/4a13cc140def7299a4a0ca9ab9c8255e_mit5_80f08lec38_th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
@@ -13,4 +13,8 @@ ocw_type: OCWImage
 resourcetype: Image
 title: Lecture 38
 uid: 4a13cc14-0def-7299-a4a0-ca9ab9c8255e
+video_metadata:
+  youtube_id: null
 ---
+Thumbnail image accompanying a video lecture on small-molecule spectroscopy and dynamics.
+

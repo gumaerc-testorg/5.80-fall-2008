@@ -5,11 +5,12 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: Lecture notes ([PDF](resources/20_580ln_fa08))
+related_resources_text: Lecture notes ([PDF](/courses/5-80-small-molecule-spectroscopy-and-dynamics-fall-2008/resources/20_580ln_fa08))
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -27,3 +28,6 @@ video_metadata:
 **Topics covered:** Transformations between basis sets: 3-j, 6-j, and Wigner-Eckart theorem
 
 **Instructor:** Prof. Robert Field
+
+
+
