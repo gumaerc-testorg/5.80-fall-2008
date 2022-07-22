@@ -6,6 +6,7 @@ file: /courses/5-80-small-molecule-spectroscopy-and-dynamics-fall-2008/a0d0f83ba
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 Supplemental notes on matrix methods, matrix algebra, the two-state problem, and numerical methods for larger matrices.
-

@@ -7,6 +7,7 @@ file: /courses/5-80-small-molecule-spectroscopy-and-dynamics-fall-2008/38a08c1f8
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture supplement on spectroscopic notation, good quantum numbers, perturbation theory and secular equations, non-orthonormal basis sets, transformation of matrix elements of any operator into perturbed basis set.
-

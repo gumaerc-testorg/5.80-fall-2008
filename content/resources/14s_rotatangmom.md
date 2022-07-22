@@ -7,6 +7,7 @@ file: /courses/5-80-small-molecule-spectroscopy-and-dynamics-fall-2008/a392a8623
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture supplement on rotation and angular momenta, matrix elements for the rotational Hamiltonian, the matrix elements of several angular momentum operators, and important commutation rules.
-

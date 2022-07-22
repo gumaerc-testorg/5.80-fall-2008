@@ -7,6 +7,7 @@ file: /courses/5-80-small-molecule-spectroscopy-and-dynamics-fall-2008/2fae98399
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture supplement on matrix solution of harmonic oscillator problems, derivation of the Heisenberg equation of motion, and matrix elements of any function of X and P.
-

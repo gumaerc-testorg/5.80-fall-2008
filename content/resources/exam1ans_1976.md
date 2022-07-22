@@ -5,6 +5,7 @@ file: /courses/5-80-small-molecule-spectroscopy-and-dynamics-fall-2008/be2db2cbe
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 Solutions to an exam on small-molecule spectroscopy and dynamics.
-

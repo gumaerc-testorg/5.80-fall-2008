@@ -6,6 +6,7 @@ file: /courses/5-80-small-molecule-spectroscopy-and-dynamics-fall-2008/0ce088dd6
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture supplement on anharmonic oscillators, vibration-rotation interaction, and energy levels of a vibrating rotor.
-

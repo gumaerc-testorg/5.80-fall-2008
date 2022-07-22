@@ -6,6 +6,7 @@ file: /courses/5-80-small-molecule-spectroscopy-and-dynamics-fall-2008/b206c9fbd
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture supplement containing excerpts from The Spectra and Dynamics of Diatomic Molecules by Robert Field and Helene Lefebvre-Brion.
-
