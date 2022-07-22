@@ -1,8 +1,20 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: Lecture notes ([PDF](/courses/5-80-small-molecule-spectroscopy-and-dynamics-fall-2008/resources/06_580ln_fa08))
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Lecture 6
 uid: 686a0902-dc53-cfdc-8f6e-e85d50ae1ea2
 video_files:
@@ -17,3 +29,4 @@ video_metadata:
 **Topics covered:** Many e- atoms
 
 **Instructor:** Prof. Robert Field
+

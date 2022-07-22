@@ -1,8 +1,20 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: Lecture notes ([PDF](/courses/5-80-small-molecule-spectroscopy-and-dynamics-fall-2008/resources/11_580ln_fa08))
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Lecture 11
 uid: bc9e5dc7-1057-de03-783c-b3f2ad244a92
 video_files:
@@ -17,3 +29,4 @@ video_metadata:
 **Topics covered:** Pictures of spectra and notation
 
 **Instructor:** Prof. Robert Field
+

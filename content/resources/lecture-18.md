@@ -1,8 +1,21 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: "Lecture notes ([PDF](/courses/5-80-small-molecule-spectroscopy-and-dynamics-fall-2008/resources/18_580ln_fa08))\
+  \  \nSupplemental notes ([PDF](/courses/5-80-small-molecule-spectroscopy-and-dynamics-fall-2008/resources/18s_analpertb))"
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Lecture 18
 uid: 394d7e52-3eb3-5c26-b942-96d0c24b2308
 video_files:
@@ -17,3 +30,4 @@ video_metadata:
 **Topics covered:** Perturbations
 
 **Instructor:** Prof. Robert Field
+

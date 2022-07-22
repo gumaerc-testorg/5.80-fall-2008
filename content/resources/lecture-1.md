@@ -1,8 +1,21 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: "Lecture notes ([PDF](/courses/5-80-small-molecule-spectroscopy-and-dynamics-fall-2008/resources/01_090308_580))\
+  \  \nSupplemental notes ([PDF](/courses/5-80-small-molecule-spectroscopy-and-dynamics-fall-2008/resources/01s_transmxel))"
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Lecture 1
 uid: 8094199d-8edc-16c0-3667-25649815a80c
 video_files:
@@ -17,3 +30,4 @@ video_metadata:
 **Topics covered:** Matrices are useful in spectroscopic theory
 
 **Instructor:** Prof. Robert Field
+

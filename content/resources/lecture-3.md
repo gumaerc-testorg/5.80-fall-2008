@@ -1,8 +1,21 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: "Lecture notes ([PDF](/courses/5-80-small-molecule-spectroscopy-and-dynamics-fall-2008/resources/03_580ln_fa08))\
+  \  \nSupplemental notes ([PDF](/courses/5-80-small-molecule-spectroscopy-and-dynamics-fall-2008/resources/03s_anoscvibrot))"
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Lecture 3
 uid: 8b7b5a96-cd77-a1df-0600-0df3d3c393e1
 video_files:
@@ -17,3 +30,4 @@ video_metadata:
 **Topics covered:** Building an effective hamiltonian
 
 **Instructor:** Prof. Robert Field
+

@@ -1,8 +1,20 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: Lecture notes ([PDF](/courses/5-80-small-molecule-spectroscopy-and-dynamics-fall-2008/resources/23_580ln_fa08))
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Lecture 23
 uid: 35e84039-3994-dd6b-863c-e61bc1255ccd
 video_files:
@@ -17,3 +29,4 @@ video_metadata:
 **Topics covered**: Asymmetric top
 
 **Instructor:** Prof. Robert Field
+

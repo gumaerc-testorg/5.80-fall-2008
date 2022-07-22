@@ -1,8 +1,21 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: "Lecture notes ([PDF](/courses/5-80-small-molecule-spectroscopy-and-dynamics-fall-2008/resources/24_580ln_fa08))\
+  \  \nSupplemental notes ([PDF](/courses/5-80-small-molecule-spectroscopy-and-dynamics-fall-2008/resources/24s_580ln_fa08))"
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Lecture 24
 uid: 22ea4e57-44ca-2932-8208-53bb2687ec86
 video_files:
@@ -17,3 +30,4 @@ video_metadata:
 **Topics covered:** Pure rotation spectra of polyatomic molecules
 
 **Instructor:** Prof. Robert Field
+
