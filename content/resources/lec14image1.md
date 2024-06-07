@@ -2,6 +2,7 @@
 content_type: resource
 description: Image of formula for a lecture.
 file: /courses/5-80-small-molecule-spectroscopy-and-dynamics-fall-2008/dfb005b48a75b3eb2980fbfcc100dc62_lec14image1.jpg
+file_size: 9439
 file_type: image/jpeg
 image_metadata:
   caption: ''

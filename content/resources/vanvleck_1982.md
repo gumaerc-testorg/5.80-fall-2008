@@ -3,6 +3,7 @@ content_type: resource
 description: Supplementary notes on Van Vleck transformation in perturbation theory,
   the problem of degeneracy, and coupled harmonic oscillators.
 file: /courses/5-80-small-molecule-spectroscopy-and-dynamics-fall-2008/6f6efd5cd42cef42a438325ca8ac99c3_vanvleck_1982.pdf
+file_size: 247017
 file_type: application/pdf
 learning_resource_types:
 - Assignments
