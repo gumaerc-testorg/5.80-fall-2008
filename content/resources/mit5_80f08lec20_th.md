@@ -3,6 +3,7 @@ content_type: resource
 description: Thumbnail image accompanying a video lecture on small-molecule spectroscopy
   and dynamics.
 file: /courses/5-80-small-molecule-spectroscopy-and-dynamics-fall-2008/3d47fe159ad9e611d3d90fcd6390fff2_mit5_80f08lec20_th.jpg
+file_size: 3699
 file_type: image/jpeg
 image_metadata:
   caption: ''
