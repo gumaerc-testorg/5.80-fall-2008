@@ -3,6 +3,7 @@ content_type: resource
 description: Supplemental notes on matrix methods, matrix algebra, the two-state problem,
   and numerical methods for larger matrices.
 file: /courses/5-80-small-molecule-spectroscopy-and-dynamics-fall-2008/a0d0f83ba77a854108e544e9ef2170af_mtxmthds_1982.pdf
+file_size: 241343
 file_type: application/pdf
 learning_resource_types:
 - Assignments
