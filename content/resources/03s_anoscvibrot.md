@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture supplement on anharmonic oscillators, vibration-rotation interaction,
   and energy levels of a vibrating rotor.
-file: /ol-ocw-studio-app/courses/5-80-small-molecule-spectroscopy-and-dynamics-fall-2008/0ce088dd609842e73d57535fb994699c_03s_anoscvibrot.pdf
+file: /courses/5-80-small-molecule-spectroscopy-and-dynamics-fall-2008/0ce088dd609842e73d57535fb994699c_03s_anoscvibrot.pdf
 file_size: 312909
 file_type: application/pdf
 learning_resource_types:
