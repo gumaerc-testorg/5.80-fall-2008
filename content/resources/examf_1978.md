@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Exam on small-molecule spectroscopy and dynamics.
-file: /ol-ocw-studio-app/courses/5-80-small-molecule-spectroscopy-and-dynamics-fall-2008/ba5076636792f32e99f3ebfb2e1bd0a6_examf_1978.pdf
+file: /courses/5-80-small-molecule-spectroscopy-and-dynamics-fall-2008/ba5076636792f32e99f3ebfb2e1bd0a6_examf_1978.pdf
 file_size: 120695
 file_type: application/pdf
 learning_resource_types:
