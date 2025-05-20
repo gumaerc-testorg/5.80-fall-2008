@@ -2,7 +2,7 @@
 content_type: resource
 description: Thumbnail image accompanying a video lecture on small-molecule spectroscopy
   and dynamics.
-file: /ol-ocw-studio-app/courses/5-80-small-molecule-spectroscopy-and-dynamics-fall-2008/6c00121599893695b811e00d93eec10a_mit5_80f08lec33_th.jpg
+file: /courses/5-80-small-molecule-spectroscopy-and-dynamics-fall-2008/6c00121599893695b811e00d93eec10a_mit5_80f08lec33_th.jpg
 file_size: 4856
 file_type: image/jpeg
 image_metadata:
