@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Image of formula for a lecture.
-file: /courses/5-80-small-molecule-spectroscopy-and-dynamics-fall-2008/bf031b3c350b21f380323d9fdb64bffe_lec32image.jpg
+file: /ol-ocw-studio-app/courses/5-80-small-molecule-spectroscopy-and-dynamics-fall-2008/bf031b3c350b21f380323d9fdb64bffe_lec32image.jpg
 file_size: 13115
 file_type: image/jpeg
 image_metadata:

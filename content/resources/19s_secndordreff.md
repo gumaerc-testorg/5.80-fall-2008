@@ -2,7 +2,7 @@
 content_type: resource
 description: "Lecture supplement on second-order effects: centrifugal distortion and\
   \ \u039B-doubling."
-file: /courses/5-80-small-molecule-spectroscopy-and-dynamics-fall-2008/289601013b8b26bc574d3039bdc905f9_19s_secndordreff.pdf
+file: /ol-ocw-studio-app/courses/5-80-small-molecule-spectroscopy-and-dynamics-fall-2008/289601013b8b26bc574d3039bdc905f9_19s_secndordreff.pdf
 file_size: 212419
 file_type: application/pdf
 learning_resource_types:
